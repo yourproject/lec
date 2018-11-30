@@ -1,0 +1,20 @@
+{
+  "symbol": "LEC",
+  "address": "0xc888d1c1fbfe944fcb1b223c28bfd0fc1229e7a0",
+  "overview":{
+        "en":"Sharing and transparent is the core concept of block chain, LEC will launch platform sharing plan,  Share profits with users, let each user participate in the construction and development of platform, and build LEC block chain ecosystem together.",
+        "zh":"LEC 以区块链、云计算、人工智能为技术环境下的生活互联网创新云平台，让生活互联网都参与到共享生态的搭建过程，把生活互联网与金融接组合，是区块链向外拓展和连接的桥梁，完成生活互联网，金融之间的轻松自由交流互通。"
+  },
+  "email": "info@lec.gs",
+  "website": "http://www.lec.gs",
+  "whitepaper": "https://github.com/yourproject/lec/blob/master/LEC.pdf",
+  "published_on": "2018-11-28",
+  "initial_price":{
+        "ETH":"0.00025 ETH",
+        "BTC":"0.0000069 BTC"
+  },
+  "links": {
+    "telegram": "",
+    "facebook": ""
+  }
+}
